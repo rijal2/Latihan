@@ -29,13 +29,13 @@ table   {
     color:yellowgreen;
 }
 
-.ok {
+.end-content {
     width: 100px;
     border: 2px solid blanchedalmond;
     text-align: center;
 }
 
-.selesai    {
+.table-content    {
     height: 1000px;
     color:blanchedalmond;
     text-align: center;
